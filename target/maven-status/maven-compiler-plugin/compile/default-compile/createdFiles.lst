@@ -1,0 +1,14 @@
+com\furniture\categories\CategoriesImpl.class
+com\furniture\products\Products.class
+com\furniture\RESTController.class
+com\furniture\FurnitureControllre.class
+com\furniture\cart\Cart.class
+com\furniture\Profiles\ProfilesDAOImpl.class
+com\furniture\products\ProductsDAO.class
+com\furniture\Profiles\Profiles.class
+com\furniture\cart\CartDAOImpl.class
+com\furniture\products\ProductsImpl.class
+com\furniture\categories\Categories.class
+com\furniture\Profiles\ProfilesDAO.class
+com\furniture\categories\CategoriesDAO.class
+com\furniture\cart\CartDAO.class
